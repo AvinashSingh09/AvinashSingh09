@@ -35,7 +35,7 @@
 
 ### 🚀 My Projects
 <p align="left">
-  • 🎯 <a href="https://avinashsingh09portfolio.netlify.app/">Portfolio Website</a>  
+  • 🎯 <a href="https://singhavinash.netlify.app/">Portfolio Website</a>  
   • 🌐 <a href="https://endearing-khapse-a1931c.netlify.app/">Netflix Clone</a>  
   • 🎲 <a href="https://webbingo.onrender.com/">Web Multiplayer Bingo</a>  
 </p>
