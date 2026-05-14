@@ -41,8 +41,6 @@
 <p align="left">
   • 🤖 <a href="https://sanrachana.ai/">Sanrachana.ai</a> — AI-powered platform <em>(currently building)</em><br/>
   • 🎯 <a href="https://singh-avinash.com/">Portfolio Website</a><br/>
-  • 🌐 <a href="https://endearing-khapse-a1931c.netlify.app/">Netflix Clone</a><br/>
-  • 🎲 <a href="https://webbingo.onrender.com/">Web Multiplayer Bingo</a>
 </p>
 
 ---
