@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on **[Sanrachana.ai](https://sanrachana.ai/)**
+- 🔭 Currently working on **[Sanrachana.ai](https://sanrachana.ai/), [Glidle](https://glidle.co/)**
 - 🌱 Learning **Java, Spring Boot**
 - 💬 Ask me about **Unity, C#, React, Stable Diffusion**
 - 📫 Reach me at **singhavinash7709@gmail.com**
